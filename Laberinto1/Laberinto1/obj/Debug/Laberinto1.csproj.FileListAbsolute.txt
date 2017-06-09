@@ -1,0 +1,9 @@
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\bin\Debug\Laberinto1.exe.config
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\bin\Debug\Laberinto1.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\bin\Debug\Laberinto1.pdb
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\obj\Debug\Laberinto1.csprojResolveAssemblyReference.cache
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\obj\Debug\Laberinto1.Form1.resources
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\obj\Debug\Laberinto1.Properties.Resources.resources
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\obj\Debug\Laberinto1.csproj.GenerateResource.Cache
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\obj\Debug\Laberinto1.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Laberinto1\Laberinto1\obj\Debug\Laberinto1.pdb

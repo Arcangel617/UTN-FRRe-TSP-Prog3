@@ -1,0 +1,6 @@
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter6ShapeExample\Chapter6ShapeExample\bin\Debug\Chapter6ShapeExample.exe.config
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter6ShapeExample\Chapter6ShapeExample\bin\Debug\Chapter6ShapeExample.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter6ShapeExample\Chapter6ShapeExample\bin\Debug\Chapter6ShapeExample.pdb
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter6ShapeExample\Chapter6ShapeExample\obj\Debug\Chapter6ShapeExample.csprojResolveAssemblyReference.cache
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter6ShapeExample\Chapter6ShapeExample\obj\Debug\Chapter6ShapeExample.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter6ShapeExample\Chapter6ShapeExample\obj\Debug\Chapter6ShapeExample.pdb

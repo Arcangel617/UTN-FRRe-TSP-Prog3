@@ -1,0 +1,6 @@
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase25-04\Clase25-04\bin\Debug\Clase25-04.exe.config
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase25-04\Clase25-04\bin\Debug\Clase25-04.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase25-04\Clase25-04\bin\Debug\Clase25-04.pdb
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase25-04\Clase25-04\obj\Debug\Clase25-04.csprojResolveAssemblyReference.cache
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase25-04\Clase25-04\obj\Debug\Clase25-04.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase25-04\Clase25-04\obj\Debug\Clase25-04.pdb
