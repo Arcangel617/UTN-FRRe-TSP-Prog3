@@ -1,0 +1,51 @@
+@startuml Grupal2
+class Boleto {
+    - nombreyapellido: string
+    - dni: int
+    - numeroasiento: int
+    - nombreempresa: string
+    - categoria: string
+    - origen: string
+    - destino: string
+    - fecha: date
+    - salida: date
+    - llegada: date
+    - precio: int
+
+    + mostrarboleto(): void
+}
+
+class Viaje {
+    - origen: string
+    - destino: string
+    - fecha: date
+    - duracion: int
+    - capacidad: int
+    - precio: int
+
+    + Viaje(origen: string, destino: string, fecha: string, hora:string, capacidad: int, precio: int)
+    + calcularduracion(): void
+    + getDuracion(): int
+    + void setDuracion(duracion: int)
+}
+
+class Empresa {
+    - nombreempresa: string
+
+    + Empresa(nombreempresa: string)
+}
+
+class Categoria {
+    - nrocategoria: int
+    - categoria[] array
+
+    + Categoria(categoria: int)
+    + calcularprecio(): int
+}
+
+Empresa "1" -> "1..n" Boleto: "vende"
+Empresa "1" --> "1..n" Viaje: "realiza"
+Boleto "1..n" -> "1" Viaje: "pertenece"
+Boleto "1..n" --> "1" Categoria: "posee"
+
+@enduml
