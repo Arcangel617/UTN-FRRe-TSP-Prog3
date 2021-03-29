@@ -1,7 +1,0 @@
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\bin\Debug\EjercicioClase16-05-17.exe.config
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\bin\Debug\EjercicioClase16-05-17.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\bin\Debug\EjercicioClase16-05-17.pdb
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\bin\Debug\AhorcadoPalabras.dll
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\obj\Debug\EjercicioClase16-05-17.csprojResolveAssemblyReference.cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\obj\Debug\EjercicioClase16-05-17.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClase16-05-17\EjercicioClase16-05-17\obj\Debug\EjercicioClase16-05-17.pdb

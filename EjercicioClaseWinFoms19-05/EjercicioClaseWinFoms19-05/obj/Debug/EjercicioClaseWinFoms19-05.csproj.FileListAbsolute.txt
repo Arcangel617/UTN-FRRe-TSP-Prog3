@@ -1,9 +1,0 @@
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\bin\Debug\EjercicioClaseWinFoms19-05.exe.config
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\obj\Debug\EjercicioClaseWinFoms19-05.csprojResolveAssemblyReference.cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\obj\Debug\EjercicioClaseWinFoms19_05.Form1.resources
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\obj\Debug\EjercicioClaseWinFoms19_05.Properties.Resources.resources
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\obj\Debug\EjercicioClaseWinFoms19-05.csproj.GenerateResource.Cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\bin\Debug\EjercicioClaseWinFoms19-05.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\bin\Debug\EjercicioClaseWinFoms19-05.pdb
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\obj\Debug\EjercicioClaseWinFoms19-05.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\EjercicioClaseWinFoms19-05\EjercicioClaseWinFoms19-05\obj\Debug\EjercicioClaseWinFoms19-05.pdb

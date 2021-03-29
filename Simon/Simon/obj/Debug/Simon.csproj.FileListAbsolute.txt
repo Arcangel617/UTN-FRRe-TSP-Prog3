@@ -1,9 +1,0 @@
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\bin\Debug\Simon.exe.config
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\bin\Debug\Simon.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\bin\Debug\Simon.pdb
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\obj\Debug\Simon.Form1.resources
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\obj\Debug\Simon.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Simon\Simon\obj\Debug\Simon.pdb

@@ -1,6 +1,0 @@
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter8CustomInterfacesExample\Chapter8CustomInterfacesExample\bin\Debug\Chapter8CustomInterfacesExample.exe.config
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter8CustomInterfacesExample\Chapter8CustomInterfacesExample\bin\Debug\Chapter8CustomInterfacesExample.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter8CustomInterfacesExample\Chapter8CustomInterfacesExample\bin\Debug\Chapter8CustomInterfacesExample.pdb
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter8CustomInterfacesExample\Chapter8CustomInterfacesExample\obj\Debug\Chapter8CustomInterfacesExample.csprojResolveAssemblyReference.cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter8CustomInterfacesExample\Chapter8CustomInterfacesExample\obj\Debug\Chapter8CustomInterfacesExample.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Chapter8CustomInterfacesExample\Chapter8CustomInterfacesExample\obj\Debug\Chapter8CustomInterfacesExample.pdb

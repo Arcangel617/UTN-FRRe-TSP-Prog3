@@ -1,6 +1,0 @@
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase16-05-17\Clase16-05-17\bin\Debug\Clase16-05-17.exe.config
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase16-05-17\Clase16-05-17\obj\Debug\Clase16-05-17.csprojResolveAssemblyReference.cache
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase16-05-17\Clase16-05-17\bin\Debug\Clase16-05-17.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase16-05-17\Clase16-05-17\bin\Debug\Clase16-05-17.pdb
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase16-05-17\Clase16-05-17\obj\Debug\Clase16-05-17.exe
-C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\ProgIII\Clase16-05-17\Clase16-05-17\obj\Debug\Clase16-05-17.pdb
