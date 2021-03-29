@@ -1,0 +1,20 @@
+@startuml Grupal1
+class Candado {
+    - string NumeroDeSerie
+    - Boolean Estado
+
+    + cambiarEstado()
+    + girarLlave()
+    + getNumeroDeSerie()
+}
+
+class Llave {
+    - int NumeroDeSerie
+
+    + validarLlave()
+    + getNumeroDeSerie()
+}
+
+Candado "1" -> "*" Llave: "      "
+
+@enduml
